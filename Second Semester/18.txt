@@ -1,0 +1,4 @@
+Student Details: 
+Name: Aman
+USN: 1BG22CS014
+branch: CSE
